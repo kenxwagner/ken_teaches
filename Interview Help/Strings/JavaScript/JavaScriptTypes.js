@@ -15,5 +15,6 @@ var javaScriptTypes = [
 ];
 
 console.log(javaScriptTypes.map(javaScriptTypes => javaScriptTypes.length));
+cosole.log(javaScriptTypes.map(javaScriptTypes => javaScriptTypes));
 
 //if no parameters then it will be ()=> { statements }
