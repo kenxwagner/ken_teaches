@@ -12,3 +12,18 @@ class ShoppingList extends React.Component {
     );
   }
 }
+class ShoppingList extends React.Component {
+	render() {
+		return (
+		<div className = "fruit-list">
+		<h1>Fruits to Buy for {this.props.name}</h1>
+		<ul>
+			<li>Banana</li>
+			<li>Grapes</li>
+			</ul>
+			</div>
+		);
+		
+	}
+	
+}
