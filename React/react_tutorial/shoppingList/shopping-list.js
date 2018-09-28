@@ -20,6 +20,7 @@ class ShoppingList extends React.Component {
 		<ul>
 			<li>Banana</li>
 			<li>Grapes</li>
+			<li>Strawberries</li>
 			</ul>
 			</div>
 		);
