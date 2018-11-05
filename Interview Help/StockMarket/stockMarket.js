@@ -8,12 +8,10 @@ function stockMarketProfit() {
 
     for (let arrayIndex = 0; i < stockArray.length; arrayIndex++) {
         if (stockArray[arrayIndex] > priceMax) {
-            priceMax = stockArray[arrayIndex];
-            if ( < 0) {
-                 += 1;
+			priceMax = stockArray[arrayIndex];}
+		else  if ( stockArray[arrayIndex] < priceMin ) {
+			priceMin = stockArray[arrayIndex];
             }
-        } else {
-             -= 1;
         }
 
     }
