@@ -28,4 +28,7 @@ function stockMarketProfit() {
 	let maxIndex = 1;
 	let priceMin = 0;
 	let profitMargin = 0;
+	if(){
+		
+	}
 }
