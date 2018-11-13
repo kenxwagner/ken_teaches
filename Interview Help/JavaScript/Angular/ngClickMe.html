@@ -8,6 +8,9 @@
         <div ng-app="clickMeApp" ng-controller="clickCounter">
             <button ng-click="count=count+1">Click me!</button>
             <p>{{ count }}</p>
+			<span>
+			<button ng-click="count=count+1">No, Click me!</button>
+            <p>{{ count*2 }}</p>
         </div>
         <script>
         var app = angular.module('clickMeApp', []);
