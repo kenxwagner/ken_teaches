@@ -10,7 +10,7 @@
             <p>{{ count }}</p>
 			<span>
 			<button ng-click="count=count+1">No, Click me!</button>
-            <p>{{ count*2 }}</p>
+            <p>{{ count + count*2 }}</p>
         </div>
         <script>
         var app = angular.module('clickMeApp', []);
