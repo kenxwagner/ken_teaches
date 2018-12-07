@@ -1,0 +1,5 @@
+git clone https://github.com/linnovate/mean
+cd mean
+cp .env.example .env
+npm install
+npm start (for development)
