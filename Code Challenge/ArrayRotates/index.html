@@ -12,17 +12,27 @@
 <body>
 
 <div class="jumbotron">
-  <h1>Welcome</h1> 
+  <h1>Fun with arrays</h1> 
   
   <br/>
   <p>---------------------</p> 
   <h3>
   <script>
-  var array1 = ['a', 'b', 'c', 'd', 'e', 'f'];
+  let n = 3;
+  let array1 = ['a', 'b', 'c', 'd', 'e', 'f'];
+	for(let i = n; i > 0; i--) {
+  
   
   document.write(array1 + '<br/><br/>');
+  let mover1 = array1.pop();
+  document.write('After pop(): ' + array1 + '<br/>');
+  document.write('mover1 is now: ' + mover1 + '<br/>');
+  document.write('Now to move it to the front of the array.' + '<br/>');
+  array1.unshift(mover1);
+  //document.write('Array is now: ' + array1  + '<br/>');
   
-  
+  }
+  document.write('Array is now: ' + array1  + '<br/>');
   </script></h2>
 </div>
 
