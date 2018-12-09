@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Rotate Arrays -->
+  <title>Rotate Arrays</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="jumbotron">
+  <h1>Fun with arrays</h1> 
+  
+  <br/>
+  <p>---------------------</p> 
+  <h3>
+  <script>
+  let n = 3;
+  let array1 = ['a', 'b', 'c', 'd', 'e', 'f'];
+	for(let i = n; i > 0; i--) {
+  
+  
+  document.write(array1 + '<br/><br/>');
+  let mover1 = array1.pop();
+  document.write('After pop(): ' + array1 + '<br/>');
+  document.write('mover1 is now: ' + mover1 + '<br/>');
+  document.write('Now to move it to the front of the array.' + '<br/>');
+  array1.unshift(mover1);
+  //document.write('Array is now: ' + array1  + '<br/>');
+  
+  }
+  document.write('Array is now: ' + array1  + '<br/>');
+  </script></h2>
+</div>
+
+</body>
+</html>
