@@ -4,6 +4,8 @@
   <p>Tutorials for teaching programming languages.</p>
   <ul>
   <li>React</li>
+   <li>jQuery</li>
+  <li>Code Challenges</li>
   </ul>
 </body>
 
