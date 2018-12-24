@@ -6,6 +6,8 @@
   <li>React</li>
   <li>JavaScript</li>
    <li>jQuery</li>
+  <li>C#></li>
+  <li>Java</li>
   <li>Code Challenges</li>
   </ul>
 </body>
