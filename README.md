@@ -6,8 +6,10 @@
   <li>React</li>
   <li>JavaScript</li>
    <li>jQuery</li>
-  <li>C#></li>
+  <li>C#</li>
   <li>Java</li>
+  <li>Spring</li>
+  <li>MEAN Stack  </li>
   <li>Code Challenges</li>
   </ul>
 </body>
