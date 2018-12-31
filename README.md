@@ -11,6 +11,7 @@
   <li>Spring</li>
   <li>MEAN Stack  </li>
   <li>Code Challenges</li>
+  <li>Data Structures</li>
   </ul>
 </body>
 
