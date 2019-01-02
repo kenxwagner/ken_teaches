@@ -1,5 +1,5 @@
 <body>
-<h2>Teaching React</h2>
+<h2>Teaching Programming/Development</h2>
   
   <p>Tutorials for teaching programming languages.</p>
   <ul>
