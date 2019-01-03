@@ -1,7 +1,7 @@
 <body>
 <h2>Teaching Programming/Development</h2>
   
-  <p>Tutorials for teaching programming languages.</p>
+  <p>Tutorials for teaching programming languages. Video tutorials will not be stored/saved on GitHub.</p> 
   <ul>
   <li>React</li>
   <li>JavaScript</li>
