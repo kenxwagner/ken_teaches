@@ -12,6 +12,8 @@
   <li>MEAN Stack  </li>
   <li>Code Challenges</li>
   <li>Data Structures</li>
-  </ul>
+  <li>Cloud</li>
+  
+</ul>
 </body>
 
