@@ -12,7 +12,12 @@ class Board extends React.Component {
 		return <Square />;
 	}
 	render() {
-	//finish here.
+	 const status = 'Next player: X';
+	 return(
+	 <div>
+	 <p>catch me</p></div>
+	 )
+	 
 	}
 	
 }
