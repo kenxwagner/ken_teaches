@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Working with JavaScript Function Closures</h2>
+
+<p>Global variables.</p>
+
+<p id="closureHtml"></p>
+
+<script>
+// Initiate counter
+var counter = 0;
+
+// Function to increment counter
+function add() {
+  counter += 1;
+}
+
+// Call add() 3 times
+add();
+add();
+add();
+
+// The counter should now be 3
+document.getElementById("closureHtml).innerHTML = "The counter is: " + counter;
+</script>
+
+</body>
+</html>
