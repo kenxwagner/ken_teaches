@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "my-appNow": {
+    "angular-mine": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/my-appNow",
+            "outputPath": "dist/angular-mine",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -57,18 +57,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "my-appNow:build"
+            "browserTarget": "angular-mine:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "my-appNow:build:production"
+              "browserTarget": "angular-mine:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "my-appNow:build"
+            "browserTarget": "angular-mine:build"
           }
         },
         "test": {
@@ -102,7 +102,7 @@
         }
       }
     },
-    "my-appNow-e2e": {
+    "angular-mine-e2e": {
       "root": "e2e/",
       "projectType": "application",
       "prefix": "",
@@ -111,11 +111,11 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "my-appNow:serve"
+            "devServerTarget": "angular-mine:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "my-appNow:serve:production"
+              "devServerTarget": "angular-mine:serve:production"
             }
           }
         },
@@ -131,5 +131,5 @@
       }
     }
   },
-  "defaultProject": "my-appNow"
+  "defaultProject": "angular-mine"
 }

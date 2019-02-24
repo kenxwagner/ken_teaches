@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Array Sort</h2>
+
+<p>The JavaScript Array Sort is a built-in method that will sort an array alphabetically.</p>
+
+<button onclick="mySortFunction()">Sort The List</button>
+
+<p id="carListShort"></p>
+
+<script>
+var carBrands = [" Mercedes", " Ford", " Chevy", " Honda"];
+document.getElementById("carListShort").innerHTML = carBrands;
+
+function mySortFunction() {
+  carBrands.sort();
+  document.getElementById("carListShort").innerHTML = carBrands;
+}
+</script>
+
+</body>
+</html>
