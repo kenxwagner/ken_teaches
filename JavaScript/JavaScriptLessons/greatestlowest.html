@@ -6,7 +6,31 @@
 </head>
 <body>
 <script>
-
+function lowgreat(num) {
+	num.sort(function(x,y)
+	{
+	return x-y;
+	});
+	
+	var n = [num[0]];
+	var result = [];
+	
+	for(var j =1; j<num.length; j++;)
+	{
+		if(num[j-1]!==num[j])
+		{
+			n.push(num[j];
+		}
+	}
+	
+	result.push(n[1],n[n.length-2]);
+	
+	return result.join(',');
+	}
+	
+document.write("The second Largest and Smaller number are:
+"+lowgreat([99, 1, 69, 0, 55, 42]));
+	
 
 
 </script>
