@@ -9,7 +9,7 @@
    <li>jQuery</li>
   <li>C#</li>
   <li>Java</li>
-  <li>Spring</li>
+  
   <li>MEAN Stack  </li>
   <li>Code Challenges</li>
   <ol><li>fizzbuz</li></ol>
