@@ -15,8 +15,8 @@
   <ol><li>fizzbuz</li></ol>
   <li>Data Structures</li>
   <li>Cloud</li>
-  <li>Robotics</li>
-  <li>SQLUpdat</li>
+  
+  <li>SQL</li>
   
 </ul>
 </body>
