@@ -10,11 +10,17 @@
 <h2>JavaScript new Date()</h2>
 <p>It will be said repeatedly, that JavaScript has a lot of built in methods.
 This one is about the Date and Time.</p>
+<p>If you want to create specific Time Stamp this works: var d7 = new Date(1987, 11, 15, 12, 23, 25, 500);
 <p id="timeshow7"></p>
+<br>
+<p>If you want the current time then leave the parameters blank, like this: new Date();</p>
+<p id="timeshow_now"></p>
 <script>
-var d7 = new Date(2019, 11, 1, 2, 3, 4, 5 );
+var d7 = new Date(1987, 11, 15, 12, 23, 25, 500);
 document.getElementById("timeshow7").innerHTML = d7;
 
+var dnow = new Date();
+document.getElementById("timeshow_now").innerHTML = dnow;
 </script>
 
 </body>
