@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>Get your grades:</h2>
+<form id="frm1" action="/action_page.php">
+  Enter Score: <input type="number" name="score"><br>
+<br><br>
+  
+</form>
+
+
+<button onclick="myFunction()">My grade</button>
+<p id="result"></p>
+
+<script>
+
+function getGrade(score) {
+    let grade;
+    // Write your code here
+    if (score > 25 && score <= 30) {
+        return "A";
+    } else if (score > 20 && score <= 25) {
+        return "B";
+    } else if (score > 15 && score <= 20) {
+        return "C";
+    } else if (score > 10 && score <= 15) {
+        return "D";
+    } else if (score > 5 && score <= 10) {
+        return "E";
+    } else if (score > 0 && score <= 5) {
+        return "F";
+    }
+    return grade;
+}
+
+  document.getElementById("result").innerHTML = grade;
+}
+</script>
+
+</body>
+</html>
