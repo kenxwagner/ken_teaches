@@ -1,0 +1,27 @@
+//A closure is a function having access to the parent scope after said parent function closed.
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Regarding JavaScript Closures</h2>
+
+<p>A good example is to count with a local variable.</p>
+
+<button type="button" onclick="myFunction()">Click Me!</button>
+
+<p id="counterplace">0</p>
+
+<script>
+var addme = (function () {
+  var counter = 0;
+  return function () {counter += 1; return counter;}
+})();
+
+function myFunction(){
+  document.getElementById("counterplace").innerHTML = addme();
+}
+</script>
+
+</body>
+</html>

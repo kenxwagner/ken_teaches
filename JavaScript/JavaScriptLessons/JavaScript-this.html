@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>The JavaScript Keyword known as <b>this</b>.</h2>
+
+<p>Using the keyword <b>this</b> means it represents the <b>person</b> object.</p>
+<p>Because the person object "owns" the fullName method.</p>
+
+<p id="personOutput"></p>
+
+<script>
+// Create an object:
+var person = {
+  firstName: "Ted",
+  lastName : "Brown",
+  id     : 10336,
+  fullName : function() {
+    return this.firstName + " " + this.lastName;
+  }
+};
+
+// Display data from the object:
+document.getElementById("personOutput").innerHTML = person.fullName();
+</script>
+
+</body>
+</html>
