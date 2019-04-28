@@ -10,7 +10,9 @@ public class FibonacciCalculator {
 		
 		System.out.println("Fibonacci series up to " + number + " numbers: ");
 		//print number series
-		for(int i = 1;)
+		for(int i = 1; i <= number; i++){
+			System.out.print(fibonacci2(i) + " ");
+		}
 		
 	}
 }
