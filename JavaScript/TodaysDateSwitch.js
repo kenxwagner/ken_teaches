@@ -33,7 +33,7 @@ switch (new Date().getDay()) {
 }
 document.getElementById("todayis").innerHTML = "Today is " + day;
 </script>
-
+//more
 </body>
 </html>
 <script>
