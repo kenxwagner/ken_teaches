@@ -1,23 +1,8 @@
 <body>
+  <h1>Teaching Platform </h1>
 <h2>Teaching Programming/Development</h2>
-  <p><strong>Fix my Readme</strong></p>
-  <p>Tutorials for teaching programming languages. Video tutorials will not be stored/saved on GitHub. They will be on Skillshare.com and Youtube.com</p>  <p>This may be used for method for talents well.</p>
-  <ul>
-  <li>Angular</li>
-  <li>React</li>
-  <li>JavaScript</li>
-   <li>jQuery</li>
-  <li>C#</li>
-  <li>Java</li>
   
-  <li>MEAN Stack  </li>
-  <li>Code Challenges</li>
-  <ol><li>fizzbuz</li></ol>
-  <li>Data Structures</li>
-  <li>Cloud</li>
+  <p>As part of the "Method For Talent". These are tutorials for teaching skills. The current path has these being used for Skillshare.com and later Youtube.com</p>  <p>This may be used for method for talents well.</p>
   
-  <li>SQL</li>
-  
-</ul>
 </body>
 
