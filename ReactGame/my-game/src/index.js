@@ -19,7 +19,7 @@ class Square extends React.Component {
 		);
 	}
 }
-
+// thoughts
 class Board extends React.Component {
 	constructor(props) {
 		super(props);
@@ -27,7 +27,7 @@ class Board extends React.Component {
 		  squares: Array(9).fill(null),
 		};
 	  }
-	  
+
 	renderSquare(i) {
 		return <Square value={i}/>;
 	}
