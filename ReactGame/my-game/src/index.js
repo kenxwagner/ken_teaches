@@ -19,7 +19,7 @@ class Square extends React.Component {
 		);
 	}
 }
-// thoughts
+
 class Board extends React.Component {
 	constructor(props) {
 		super(props);
