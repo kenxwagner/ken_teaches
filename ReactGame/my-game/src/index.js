@@ -19,7 +19,7 @@ class Square extends React.Component {
 		);
 	}
 }
-
+//explain the component lifecycle
 class Board extends React.Component {
 	constructor(props) {
 		super(props);
