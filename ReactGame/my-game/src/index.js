@@ -19,7 +19,7 @@ class Square extends React.Component {
 		);
 	}
 }
-//explain the component lifecycle
+
 class Board extends React.Component {
 	constructor(props) {
 		super(props);
@@ -29,7 +29,7 @@ class Board extends React.Component {
 	  }
 
 	renderSquare(i) {
-		return <Square value={i}/>;
+		return <Square value={this.state.squares[i]}/>;
 	}
 	
 	render() {
