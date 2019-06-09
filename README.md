@@ -1,9 +1,12 @@
 <body>
   <h1>Teaching Platform </h1>
 <h2>Teaching Programming/Development</h2>
+  <ul>Problem Solving</ul>
+  <li>Strings</li>
   
   <p>As part of the "Method For Talent". These are tutorials for teaching skills. The current path has these being used for Skillshare.com and other video platforms.</p>  <p>This may be used for method for talents well.</p>
   <p> A connection to "For What I Have", would also be a useful tool. </p>
+  
   
 </body>
 
