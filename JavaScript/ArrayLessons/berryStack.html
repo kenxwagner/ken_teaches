@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>We need and example to display on a website of using push and pop from the call stack.</p>
+
+<button onclick="myStackFunction()">Click it</button>
+
+<p id="stackDemo"></p>
+
+<script>
+var berries = ["Blueberries", "Raspberries", "Blackberries", "Marionberries"];
+document.getElementById("stackDemo").innerHTML = berries;
+
+function myFunction() {
+  berries.pop();
+  document.getElementById("stackDemo").innerHTML = berries;
+}
+</script>
+
+</body>
+</html>
