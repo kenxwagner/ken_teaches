@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2> JavaScript Fibonacci</h2>
+
+<p id="fibDemo"></p>
+
+<script>
+function fib(n) {
+	let arr = [0, 1];
+	for (let i = 2; i < n + 1; i++){
+		arr.push(arr[i-2] + arr[i -1])
+	}
+	return arr[n]
+
+}
+var x;
+x = 5;
+document.getElementById("demo").innerHTML = x * 10;
+
+</script>
