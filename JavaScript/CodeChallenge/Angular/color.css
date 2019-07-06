@@ -1,0 +1,20 @@
+.red    { color: red   ; }
+.orange { color: orange; }
+.yellow { color: yellow; }
+.green  { color: green ; }
+.blue   { color: blue  ; }
+.purple { color: purple; }
+
+.changeColor {
+  margin-right: 16px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.notBold {
+  font-weight: regular;
+}
