@@ -7,16 +7,20 @@
 <script type="text/javascript">
 	function check_Palindrome()
 	{
-		var revStr = "";
-		var str = document.getElementById("str").value;
-		var i = str.length;
+		let revStr = "";
+		let str = document.getElementById("str").value;
+		let i = str.length;
 		
-		for(var j = i; j >= 0; j--)
+		for(let j = i; j >= 0; j--)
 		{
 			revStr = revStr + str.charAt(j);
 		}
 		
 		if(str == revStr)
+		{
+			alert(str + " is a Palindrome");
+		}
+		else 
 		{
 			alert(str + " is not a Palindrome");
 		}
