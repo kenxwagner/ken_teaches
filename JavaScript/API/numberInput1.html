@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>I need a number between 64 and 256. Enter the number and press GO:</p>
+
+<input id="inputBox1" type="number" min="64" max="256" required>
+<button onclick="numValidator()">GO</button>
+
+<p>If you selected a number not in this range, an error message will be displayed. </p>
+<p id="validator"></p>
+
+<script>
+function numValidator() {
+	let inpObj = document.getElementByID("inputBox1");
+	if (!inpItem.checkValidity()) {
+		 document.getElementById("validator").innerHTML = inpObj.validationMessage;
+  } else {
+    document.getElementById("validator").innerHTML = "Input OK";
+  }
+}
+</script>
+</body>
+</html>
