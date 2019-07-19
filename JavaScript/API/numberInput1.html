@@ -2,23 +2,25 @@
 <html>
 <body>
 
+
 <p>I need a number between 64 and 256. Enter the number and press GO:</p>
+<input id="input1" type="number" min="64" max="256" required>
+<button onclick="myFunction()">GO</button>
 
-<input id="inputBox1" type="number" min="64" max="256" required>
-<button onclick="numValidator()">GO</button>
+<p>If the number is less than 64or greater than 300, an error message will be displayed.</p>
 
-<p>If you selected a number not in this range, an error message will be displayed. </p>
-<p id="validator"></p>
+<p id="numberRange"></p>
 
 <script>
-function numValidator() {
-	let inpObj = document.getElementByID("inputBox1");
-	if (!inpItem.checkValidity()) {
-		 document.getElementById("validator").innerHTML = inpObj.validationMessage;
+function myFunction() {
+  var inpObj = document.getElementById("input1");
+  if (!inpObj.checkValidity()) {
+    document.getElementById("numberRange").innerHTML = inpObj.validationMessage;
   } else {
-    document.getElementById("validator").innerHTML = "Input OK";
-  }
-}
+    document.getElementById("numberRange").innerHTML = "Input OK";
+  } 
+} 
 </script>
+
 </body>
 </html>
