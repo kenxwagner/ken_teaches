@@ -15,6 +15,7 @@ class Square extends React.Component {
 	}
 }
 //The onClick prop on
+//More?
 
 
 class Board extends React.Component {
