@@ -1,0 +1,30 @@
+//Hello and welcome
+//This is a demonstration of JavaScript
+//
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Let's create and array and add numbers to it. We will use an Array Method in JavaScript called push().</p>
+
+<button onclick="myFunction()">Add item</button>
+
+<p id="pushed"></p>
+
+<script>
+var myCount = [];
+document.getElementById("pushed").innerHTML = myCount;
+
+function myFunction() {
+  let i = 0;
+  while(i < 5) {
+  myCount.push(i);
+  document.getElementById("pushed").innerHTML = myCount;
+  i++;
+  }
+}
+</script>
+
+</body>
+</html>
