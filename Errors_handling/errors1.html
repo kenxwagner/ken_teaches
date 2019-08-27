@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Setting a default value to a function parameter.</p>
+<p id="error"></p>
+
+<script>
+function myFunction(x, y) {
+  if (x === undefined) {
+  alert("error: x is undefined");
+  }
+  if (y === undefined) {
+    alert("error: y is undefined");
+  }  
+  
+}
+document.getElementById("error").innerHTML = myFunction(4);
+</script>
+
+</body>
+</html>

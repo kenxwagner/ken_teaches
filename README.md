@@ -5,6 +5,13 @@
 <li>Problem Solving</li>
   <li>Strings</li>
     <li>Code Challenges</li>
+    <ul>Practice sites:
+      <li>https://www.testdome.com</li>
+      <li>https://www.hackerrank.com/</li>
+      <li>https://leetcode.com/</li>
+      <li>https://www.codewars.com/</li>
+      
+    </ul>
     <li>Interview Practice</li>
     <li>Video Tutorials</li>
   </ul>
