@@ -22,7 +22,11 @@
 function myFunction(a, b) {
   return a * b;
 }
-document.getElementById("demo").innerHTML = myFunction(10, 2); 
+function divMe(a, b) {
+ return b / a;
+ }
+document.getElementById("callMe").innerHTML = myFunction(10, 2); 
+document.getElementById("callMe").innerHTML = divMe(10, 20);
 </script>
 
 </div>
