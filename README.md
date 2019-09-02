@@ -11,7 +11,7 @@
       <li>https://leetcode.com/</li>
       <li>https://www.codewars.com/</li>
       
-    </ul>
+    </ul><ul>
     <li>Interview Practice</li>
     <li>Video Tutorials</li>
   </ul>
