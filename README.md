@@ -3,8 +3,10 @@
 <h2>Teaching Programming/Development</h2>
   <ul>
 <li>Problem Solving</li>
-  <li>Strings</li>
-    <li>Code Challenges</li>
+<li>Strings</li>
+ <li>Interview Practice</li>
+    <li>Video Tutorials</li>    
+<li>Code Challenges</li>
     <ul>Practice sites:
       <li>https://www.testdome.com</li>
       <li>https://www.hackerrank.com</li>
@@ -12,8 +14,7 @@
       <li>https://www.codewars.com</li>
       
     </ul>
-        <li>Interview Practice</li>
-    <li>Video Tutorials</li>
+       
   </ul>
   <p>As part of the "Method For Talent". These are tutorials for teaching skills. The current path has these being used for Skillshare.com and other video platforms.</p>  <p>This may be used for method for talents well.</p>
   <p> A connection to "For What I Have", would also be a useful tool. </p> <p>More</p>
