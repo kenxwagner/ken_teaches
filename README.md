@@ -7,12 +7,12 @@
     <li>Code Challenges</li>
     <ul>Practice sites:
       <li>https://www.testdome.com</li>
-      <li>https://www.hackerrank.com/</li>
-      <li>https://leetcode.com/</li>
-      <li>https://www.codewars.com/</li>
+      <li>https://www.hackerrank.com</li>
+      <li>https://leetcode.com</li>
+      <li>https://www.codewars.com</li>
       
-    </ul><ul>
-    <li>Interview Practice</li>
+    </ul>
+        <li>Interview Practice</li>
     <li>Video Tutorials</li>
   </ul>
   <p>As part of the "Method For Talent". These are tutorials for teaching skills. The current path has these being used for Skillshare.com and other video platforms.</p>  <p>This may be used for method for talents well.</p>
@@ -21,4 +21,3 @@
   <p> Youtube channel is here as Method For Talent.</p>
   
 </body>
-
