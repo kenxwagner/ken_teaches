@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Function Expression in JavaScript</title>
+</head>
+<body>
+    <script>
+    // Function Declaration
+    function getSum(num1, num2) {
+        var total = num1 + num2;
+        return total;
+    }
+    document.write(getSum(2, 3) + "<br>"); // Prints: 5
+    
+    // Function Expression
+    var getSum = function(num1, num2) {
+        var total = num1 + num2;
+        return total;
+    }
+    
+    document.write(getSum(4, 6)); // Prints: 10
+    </script>
+</body>
+</html>   
