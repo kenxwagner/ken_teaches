@@ -15,7 +15,7 @@
   </ul>
   <p>As part of the "Method For Talent". These are tutorials for teaching skills. The current path has these being used for Skillshare.com and other video platforms.</p>  
   <p> A connection to "For What I Have", would also be a useful tool. </p> 
-  <p> more</p>
+
   <p> Youtube channel is here as Method For Talent.</p>
   
 </body>
