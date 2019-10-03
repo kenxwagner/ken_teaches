@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Please give a number between 3 and 15:</p>
+
+<input id="errorComment" type="text">
+<button type="button" onclick="myFunction()">Test Input</button>
+
+<p id="message"></p>
+
+<script>
+function myFunction() {
+  var message, x;
+  message = document.getElementById("message");
+  message.innerHTML = "";
+  x = document.getElementById("errorComment").value;
+  try { 
+    if(x == "")  throw "is Empty";
+    if(isNaN(x)) throw "not a number";
+    if(x > 15)   throw "too high";
+    if(x < 3)  throw "too low";
+  }
+  catch(err) {
+    message.innerHTML = "Input " + err;
+  }
+  finally {
+    document.getElementById("errorComment").value = "";
+  }
+}
+</script>
+
+</body>
+</html>
