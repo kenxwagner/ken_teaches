@@ -1,0 +1,10 @@
+const add = (x, y) => {
+    let sum = x+ y; 
+    console.log(sum);
+}
+add(42,7);
+
+
+
+const greet = x => "Welcome " + x;
+alert(greet("fellow human"));
