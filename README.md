@@ -7,7 +7,7 @@
  <li>Interview Practice</li>
     <li>Video Tutorials</li>    
 <li>Code Challenges</li>
-    <ul>Practice sites:
+    <ul><b>Practice sites:</b>
       <li>https://www.testdome.com</li>
       <li>https://www.hackerrank.com</li>
       <li>https://leetcode.com</li>
