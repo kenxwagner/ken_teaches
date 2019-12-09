@@ -21,6 +21,7 @@
       <li>https://www.codewars.com</li>
       <li>https://edabit.com</li>
   </ul>
-  <p> Youtube channel is here as Method For Talent.</p>
+  <br></br>
+  <p>Youtube channel is here as Method For Talent.</p>
   <p>Code challenge practice </p>
 </body>
