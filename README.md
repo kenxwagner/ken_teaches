@@ -23,5 +23,5 @@
   </ul>
   <br></br>
   <p>Youtube channel is here as Method For Talent.</p>
-  <p>Code challenge practice </p>
+  <p>Daily Code challenge practice. </p>
 </body>
