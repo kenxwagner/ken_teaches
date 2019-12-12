@@ -22,6 +22,6 @@
       <li>https://edabit.com</li>
   </ul>
   <br></br>
-  <p>Youtube channel is here as Method For Talent.</p>
+  <p>The Youtube channel is here as Method For Talent.</p>
   <p>Daily Code challenge practice. </p>
 </body>
