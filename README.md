@@ -4,6 +4,7 @@
   <ul>
 <li>Problem Solving</li>
 <li>Strings</li>
+<li>Data Structures</li>
  <li>Interview Practice</li>
     <li>Video Tutorials</li>    
 <li>Code Challenges</li>
