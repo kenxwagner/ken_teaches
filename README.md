@@ -10,6 +10,7 @@
 <li>Code Challenges</li>
     <li>Girl Scouts</li>
     <li>Robotics</li>
+<li>Other</li>
     
     
   <p>As part of the "Method For Talent". These are tutorials for teaching skills. The current path has these being used for Skillshare.com and other video platforms.</p>  
