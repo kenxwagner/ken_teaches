@@ -3,8 +3,7 @@
 <h2>Teaching Programming/Development</h2>
   <ul>
 <li>Problem Solving</li>
-<li>Strings</li>
-<li>Data Structures</li>
+<li>Strings and Data Structures</li>
  <li>Interview Practice</li>
     <li>Video Tutorials</li>    
 <li>Code Challenges</li>
