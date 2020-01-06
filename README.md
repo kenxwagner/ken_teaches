@@ -1,6 +1,6 @@
 <body>
   <h1>Teaching Platform </h1>
-<h2>Teaching Programming/Development</h2>
+<h2>Teaching Programming and more.</h2>
   <ul>
 <li>Problem Solving</li>
 <li>Strings and Data Structures</li>
