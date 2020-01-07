@@ -1,4 +1,10 @@
 function palindrome(text) {
 
-https://dev.to/worldclassdev/javascript-algorithms-2-palindromes-48g3
+let charArray text.toLowerCase().split('');
+
+let result = charArray.every((letter, index) => {
+	return letter === charArray[charArray.length - index - 1];
+});
+
+return result
 }
