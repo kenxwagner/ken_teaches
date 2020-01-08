@@ -1,10 +1,9 @@
 <body>
   <h1>Teaching Platform </h1>
-<h2>Teaching Programming/Development</h2>
+<h2>Teaching Programming and more.</h2>
   <ul>
 <li>Problem Solving</li>
-<li>Strings</li>
-<li>Data Structures</li>
+<li>Strings and Data Structures</li>
  <li>Interview Practice</li>
     <li>Video Tutorials</li>    
 <li>Code Challenges</li>
@@ -22,6 +21,8 @@
       <li>https://leetcode.com</li>
       <li>https://www.codewars.com</li>
       <li>https://edabit.com</li>
+      <li>https://topcoder.com</li>
+
   </ul>
   <br></br>
   <p>The Youtube channel is here as Method For Talent.</p>
