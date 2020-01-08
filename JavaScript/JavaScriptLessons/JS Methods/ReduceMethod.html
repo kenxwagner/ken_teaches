@@ -1,0 +1,43 @@
+<!DOCTYPE html> 
+<html> 
+	
+<head> 
+	<title> 
+		Using JavaScript Array Methods
+		
+	</title> 
+</head> 
+
+<body style="text-align:center;"> 
+	
+	<h2>Using JavaScript Array Methods:</h2> 
+	<h3>reduce();</h3>
+	
+	<p> 
+		Click here to get the sum 
+		of array elements 
+	</p> 
+	
+	<button onclick="reduceFunc()"> 
+		Click Here! 
+	</button> 
+	
+	<br><br> 
+	
+	Sum: <span id="ReduceOutput"></span> 
+	
+	<!-- Script to use reduce method -->
+	<script> 
+		var arr = [1000001, 2000002, 3000003, 4000004, 5000005, 6000006]; 
+
+		function sumofBig(sum, num) { 
+			return sum + num; 
+		} 
+		function reduceFunc(item) { 
+			document.getElementById("ReduceOutput").innerHTML 
+					= arr.reduce(sumofBig); 
+		} 
+	</script> 
+</body> 
+
+</html>					 
