@@ -1,0 +1,10 @@
+<h2>People List</h2>
+
+<p><i>Pick a people from the list</i></p>
+<ul>
+  <li *ngFor="let people of peoplees" (click)="selectpeople(people)">
+    {{people.name}}
+  </li>
+</ul>
+
+<app-people-detail *ngIf="selectedpeople" [people]="selectedpeople"></app-people-detail>
