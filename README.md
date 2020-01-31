@@ -13,7 +13,7 @@
     
     
   <p>As part of the "Method For Talent". These are tutorials for teaching skills. The current path has these being used for Skillshare.com and other video platforms.</p>  
-  <p> A connection to "For What I Have", would also be a useful tool. </p> 
+  <p> A connection to "For What I Have", would also be a useful tool to use. </p> 
 
 <ul><b>Practice sites:</b>
       <li>https://www.testdome.com</li>
