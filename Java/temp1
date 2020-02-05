@@ -1,0 +1,4 @@
+class MyForms extends React.Component {
+ 
+
+ReactDOM.render(<MyForm />, document.getElementById('root'));
