@@ -1,0 +1,11 @@
+class Car extends React.Component {
+  render() {
+    return <h2>Hi, I am here!</h2>;
+  }
+}
+
+//practice making a component.
+
+//this goes in the root element:
+
+ReactDOM.render(<Car />, document.getElementById('root'));
