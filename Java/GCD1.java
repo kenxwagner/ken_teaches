@@ -1,4 +1,3 @@
-// quiz time
 import java.util.Scanner;
 
 // Greatest Common Denominator in an array
