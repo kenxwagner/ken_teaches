@@ -9,3 +9,4 @@ class Car extends React.Component {
 //this goes in the root element:
 
 ReactDOM.render(<Car />, document.getElementById('root'));
+
