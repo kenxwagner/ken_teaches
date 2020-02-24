@@ -1,0 +1,78 @@
+'use strict';
+
+const fs = require('fs');
+
+process.stdin.resume();
+process.stdin.setEncoding('utf-8');
+
+let inputString = '';
+let currentLine = 0;
+
+process.stdin.on('data', function(inputStdin) {
+    inputString += inputStdin;
+});
+
+process.stdin.on('end', function() {
+    inputString = inputString.split('\n');
+
+    main();
+});
+
+function readLine() {
+    return inputString[currentLine++];
+}
+
+
+/*
+ * Complete the 'plusMult' function below.
+ *
+ * The function is expected to return a STRING.
+ * The function accepts INTEGER_ARRAY A as parameter.
+ */
+
+function plusMult(A) {
+ 
+ let RisEven = [];
+ let RisOdd = [];
+    
+for(let i = 0; i < A.length; i++) {
+    
+    if(A.indexOf(i) % 2 === 0) {
+    RisEven.push(A[i]);
+       
+    }else {
+    RisOdd.push(A[i]);
+   
+    }
+}
+let RisEvenResult = (((RisEven[0] * RisEven[1]) + RisEven[2]) * RisEven[3]) + RisEven[4];
+
+let RisOddResult = (((RisOdd[0] * RisOdd[1]) + RisOdd[2]) * RisOdd[3]) + RisOdd[4];
+
+if(RisEvenResult % 2 === RisOddResult % 2) {
+        return "NEUTRAL";
+    } else if(RisEvenResult % 2 > RisOddResult % 2) {
+        return "EVEN"; 
+    } else if(RisOddResult % 2 > RisEvenResult % 2) {
+        return "ODD"; 
+    }
+
+}
+function main() {
+    const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
+
+    const ACount = parseInt(readLine().trim(), 10);
+
+    let A = [];
+
+    for (let i = 0; i < ACount; i++) {
+        const AItem = parseInt(readLine().trim(), 10);
+        A.push(AItem);
+    }
+
+    const result = plusMult(A);
+
+    ws.write(result + '\n');
+
+    ws.end();
+}
