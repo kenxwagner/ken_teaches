@@ -13,8 +13,8 @@
     
     
   <p>As part of the "Method For Talent". These are tutorials for teaching skills. The current path has these being used for Skillshare.com and other video platforms.</p>  
-  <p> A connection to "For What I Have", would also be a useful tool to use. shcedule </p> 
-  
+  <p> A connection to "For What I Have", would also be a useful tool to use. </p> 
+  <p> Scheduling app?</p>
 
 <ul><b>Practice sites:</b>
 <li>https://www.leetcode.com/li>
