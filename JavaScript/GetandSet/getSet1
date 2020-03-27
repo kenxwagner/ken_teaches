@@ -21,7 +21,24 @@ var person = {
 document.getElementById("firstOne").innerHTML = person.fullName();
 </script>
 
+<h2>JavaScript Object Method Again</h2>
 
+<p>Object data accessed using a getter.</p>
+
+<p id="secondOne"></p>
+
+<script>
+// Create an object:
+var person = {
+  firstName: "Notta",
+  lastName : "Person",
+  get fullName() {
+    return this.firstName + " " + this.lastName;
+  }
+};
+// Display data from the object using a getter:
+document.getElementById("secondOne").innerHTML = person.fullName;
+</script>
 
 
 </body>
