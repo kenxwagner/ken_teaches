@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript Array Methods</h2> 
+
+<h2>toString()</h2>
+
+<p>The toString() method will return an array as a comma separated string:</p>
+
+<p id="toString1"></p>
+
+<script>
+var fruits = ["Banana", "Orange", "Apple", "Mango"];
+document.getElementById("toString1").innerHTML = fruits.toString();
+</script>
+
+</body>
+</html>
