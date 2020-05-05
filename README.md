@@ -7,7 +7,7 @@
  <li>Interview Practice</li>
     <li>Video Tutorials</li>    
 <li>Code Challenges</li>
-    <li>Girl Scouts</li>
+    
     <li>Robotics</li>
 <li>Other</li>
     
