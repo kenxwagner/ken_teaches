@@ -8,7 +8,7 @@
     <li>Video Tutorials</li>    
 <li>Code Challenges</li>
     
-    Robotics
+   
 <li>Other</li>
     
     
