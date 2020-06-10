@@ -16,16 +16,19 @@
   <p> A connection to "For What I Have", would also be a useful tool to use. </p> 
   <p> Scheduling app?</p>
 
-<ul><b>Practice sites:</b>
-<li>https://www.leetcode.com</li>
 <ul>
+<b>Practice sites:</b>
+
+      <li>https://www.codewars.com</li>
+      <li>https://www.leetcode.com</li>
+
       <li>https://www.testdome.com</li>
       <li>https://www.hackerrank.com</li>
       
-      <li>https://www.codewars.com</li>
+      
       <li>https://edabit.com</li>
       <li>https://topcoder.com</li>
-</ul>
+
   </ul>
   <br></br>
   <p>The Youtube channel is here as Method For Talent.</p>
