@@ -17,7 +17,8 @@
   <p> Scheduling app?</p>
 
 <ul><b>Practice sites:</b>
-<li>https://www.leetcode.com/li><ul>
+<li>https://www.leetcode.com</li>
+<ul>
       <li>https://www.testdome.com</li>
       <li>https://www.hackerrank.com</li>
       
