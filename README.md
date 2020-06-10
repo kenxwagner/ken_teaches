@@ -9,7 +9,8 @@
 <li>Code Challenges</li>
     
    
-<li>Other</li></ul>
+<li>Other</li>
+</ul>
     
     
   <p>As part of the "Method For Talent". These are tutorials for teaching skills. The current path has these being used for Skillshare.com and other video platforms.</p>  
@@ -31,7 +32,7 @@
       <li>https://topcoder.com</li>
 
   </ul>
-  <br></br>
+  
   <p>The Youtube channel is here as Method For Talent.</p>
   <p>Daily Code challenge practice. </p>
 </body>
