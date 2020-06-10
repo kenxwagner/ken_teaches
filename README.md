@@ -13,7 +13,9 @@
 
     
     
-  <p>As part of the "Method For Talent". These are tutorials for teaching skills. The current path has these being used for Skillshare.com and other video platforms.</p>  
+  <p>As part of the "Method For Talent". 
+These are tutorials for teaching skills. 
+The current path has these being used for Skillshare.com and other video platforms.</p>  
   <p> A connection to "For What I Have", would also be a useful tool to use. </p> 
   <p> Scheduling app?</p>
 <b>Practice sites:</b>
@@ -21,7 +23,7 @@
 
 
 
-      <li>https://www.codewars.com</li>
+      https://www.codewars.com
       <li>https://www.leetcode.com</li>
 
       <li>https://www.testdome.com</li>
