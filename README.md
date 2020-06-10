@@ -19,7 +19,7 @@
 <b>Practice sites:</b>
 
 
-<ul>
+
 
       <li>https://www.codewars.com</li>
       <li>https://www.leetcode.com</li>
@@ -31,7 +31,7 @@
       <li>https://edabit.com</li>
       <li>https://topcoder.com</li>
 
-  </ul>
+  
   
   <p>The Youtube channel is here as Method For Talent.</p>
   <p>Daily Code challenge practice. </p>
