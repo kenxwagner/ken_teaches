@@ -9,15 +9,16 @@
 <li>Code Challenges</li>
     
    
-<li>Other</li>
+<li>Other</li></ul>
     
     
   <p>As part of the "Method For Talent". These are tutorials for teaching skills. The current path has these being used for Skillshare.com and other video platforms.</p>  
   <p> A connection to "For What I Have", would also be a useful tool to use. </p> 
   <p> Scheduling app?</p>
+<b>Practice sites:</b>
+
 
 <ul>
-<b>Practice sites:</b>
 
       <li>https://www.codewars.com</li>
       <li>https://www.leetcode.com</li>
