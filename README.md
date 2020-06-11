@@ -1,4 +1,4 @@
-<body>
+
   <h1>Teaching Platform and more </h1>
 <h2>Teaching Programming and more.</h2>
   <ul>
@@ -10,7 +10,7 @@
     
    
 <li>Other</li>
-
+</ul>
     
     
   <p>As part of the "Method For Talent". 
@@ -18,6 +18,7 @@ These are tutorials for teaching skills.
 The current path has these being used for Skillshare.com and other video platforms.</p>  
   <p> A connection to "For What I Have", would also be a useful tool to use. </p> 
   <p> Scheduling app?</p>
+<ul>
 <b>Practice sites:</b>
 
 
@@ -34,7 +35,7 @@ The current path has these being used for Skillshare.com and other video platfor
       <li>https://topcoder.com</li>
 
   
-  
+  </ul>
   <p>The Youtube channel is here as Method For Talent.</p>
   <p>Daily Code challenge practice. </p>
-</body>
+
