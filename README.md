@@ -23,12 +23,10 @@ The current path has these being used for Skillshare.com and other video platfor
 
 
 
-<a href="http://www.sololearn.com">
-    Learn Playing
-</a>
-     Here<link>https://www.codewars.com</link>
+<li>
+     <a href ="https://www.codewars.com">Codewars</a>
 
-      <li>https://www.leetcode.com</li>
+   </li>   <li>https://www.leetcode.com</li>
 
       <li>https://www.testdome.com</li>
       <li>https://www.hackerrank.com</li>
