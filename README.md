@@ -23,7 +23,9 @@ The current path has these being used for Skillshare.com and other video platfor
 
 
 
-
+<a href="http://www.sololearn.com">
+    Learn Playing
+</a>
      Here<link>https://www.codewars.com</link>
 
       <li>https://www.leetcode.com</li>
