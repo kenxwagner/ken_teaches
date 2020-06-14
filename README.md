@@ -34,7 +34,7 @@ The current path has these being used for Skillshare.com and other video platfor
 <li>     
 <a href ="https://edabit.com">Edabit</a></li>
 <li>
-<a href ="https://topcoder.com>Topcoder</a></li>
+<a href ="https://topcoder.com">Topcoder</a></li>
  
   </ul>
   <p>The Youtube channel is here as Method For Talent.</p>
