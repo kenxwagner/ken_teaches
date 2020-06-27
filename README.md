@@ -37,6 +37,6 @@ The current path has these being used for Skillshare.com and other video platfor
 <a href ="https://topcoder.com">Topcoder</a></li>
  
   </ul>
-  <p>The Youtube channel is here as Method For Talent.</p>
-  <p>Daily Code challenge practice. </p>
+  <p>The Youtube channel will eventually be here as Method For Talent.</p>
+  <p>Daily Code challenge p6ractice. </p>
 
