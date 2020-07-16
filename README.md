@@ -38,5 +38,5 @@ The current path has these being used for Skillshare.com and other video platfor
  
   </ul>
   <p>The Youtube channel will eventually be here as Method For Talent.</p>
-  <p>Daily Code challenge p6ractice. </p>
+  <p>Daily Code challenge practice. </p>
 
