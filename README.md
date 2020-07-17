@@ -31,8 +31,7 @@ The current path has these being used for Skillshare.com and other video platfor
 <a href ="https://www.testdome.com">Testdome</a></li>
 <li>
 <a href ="https://www.hackerrank.com">Hackerrank</a></li>
-<li>     
-<a href ="https://edabit.com">Edabit</a></li>
+
 <li>
 <a href ="https://topcoder.com">Topcoder</a></li>
  
