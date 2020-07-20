@@ -19,7 +19,9 @@ function App() {
           Learn React
         </a>
       </header>
+	  what does this do?
     </div>
+	But what else?
   );
 }
 
