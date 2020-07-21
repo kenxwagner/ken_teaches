@@ -1,5 +1,5 @@
 
-  <h1>Teaching Platform and more </h1>
+  <h1>Teaching Platform </h1>
 <h2>Teaching Programming and more.</h2>
   <ul>
 <li>Problem Solving</li>
