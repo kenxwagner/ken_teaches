@@ -1,7 +1,7 @@
 
   <h1>Teaching Platform </h1>
 <h2>Teaching </h2>
-  <ul>
+  <ul><li>Hands On when useful</li>
 <li>Problem Solving</li>
 <li>Strings and Data Structures</li>
  <li>Interview Practice</li>
