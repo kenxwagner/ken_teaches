@@ -9,7 +9,7 @@
 <li>Code Challenges</li>
     
    
-<li>Other</li>
+<li>Other Parts</li>
 
     
     
