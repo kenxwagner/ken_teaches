@@ -7,9 +7,6 @@
  <li>Interview Practice</li>
     <li>Video Tutorials</li>    
 <li>Code Challenges</li>
-    
-   
-<li>Other Parts</li>
 
     
     
