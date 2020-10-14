@@ -5,13 +5,13 @@
 <li>Problem Solving</li>
 <li>Strings and Data Structures</li>
  <li>Interview Practice</li>
-    <li>Video Tutorials</li>    
+    <li>Video Tutorials</li>    LLP
 <li>Code Challenges</li>
 
     
     
   <p>As part of the "Method For Talent". 
-These are tutorials for teaching skills. 
+
 The current path has these being used for Skillshare.com and other video platforms.</p>  
   <p> A connection to "For What I Have", would also be a useful tool to use. </p> 
   <p> Scheduling app?</p>
