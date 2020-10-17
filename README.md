@@ -1,6 +1,5 @@
 
   <h1>Teaching Platform </h1>
-<h2>Teaching </h2>
   
 <li>Problem Solving</li>
 <li>Strings and Data Structures</li>
