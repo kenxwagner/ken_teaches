@@ -1,6 +1,5 @@
 
   <h1>Teaching Platform </h1>
-<h2>Teaching </h2>
   
 <li>Problem Solving</li>
 <li>Strings and Data Structures</li>
@@ -12,7 +11,7 @@
     
   <p>As part of the "Method For Talent". 
 
-The current path has these being used for Skillshare.com and other video platforms.</p>  
+The current path has these being used for other video platforms.</p>  
   <p> A connection to "For What I Have", would also be a useful tool to use. </p> 
   <p> Scheduling app?</p>
 
