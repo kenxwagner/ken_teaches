@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+import car from './images/car.jpg'; // gives image path
 function App() {
   return (
     <div className="App">
@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+	  <img src={car} alt="this is car image" />
     </div>
   );
 }
