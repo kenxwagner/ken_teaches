@@ -12,3 +12,12 @@ function cutItOut(myArray) {
 //explained further by saving it as a variable
 
 const tailOfArray = myArray.slice(1);
+
+
+return myArray.slice(1);
+//this is less code but hides big O
+
+
+myArray.slice(1).forEach(item => {
+	
+});
