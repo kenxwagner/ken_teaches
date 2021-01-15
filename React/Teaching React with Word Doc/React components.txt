@@ -1,0 +1,6 @@
+//react parts
+
+//useEffect can combine which lifecycle methods?
+componentDidMount
+componentDidUpdate
+componentWillUnmount

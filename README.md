@@ -32,6 +32,4 @@ The current path has these being used for other video platforms.</p>
 <a href ="https://topcoder.com">Topcoder</a></li>
  
   </ul>
-  <p>The Youtube channel will eventually be here as Method For Talent.</p>
-  <p>Daily Code challenge practice. </p>
 
