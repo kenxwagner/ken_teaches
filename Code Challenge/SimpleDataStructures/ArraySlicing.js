@@ -19,5 +19,5 @@ return myArray.slice(1);
 
 
 myArray.slice(1).forEach(item => {
-	
+	// spends O(n) time
 });
