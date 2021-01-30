@@ -4,7 +4,7 @@
 <li>Problem Solving</li>
 <li>Strings and Data Structures</li>
  <li>Interview Practice</li>
-    <li>Video Tutorials</li>    LLP
+    <li>Video Tutorials</li>   
 <li>Code Challenges</li>
 
     
