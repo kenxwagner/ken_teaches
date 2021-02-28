@@ -16,3 +16,23 @@ var twoSum = function(nums, target) {
         }
     }
 }
+// other
+
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number[]}
+ */
+var twoSum = function(nums, target) {
+    const preVal = {};
+    for (let i = 0; i < nums.length; i++) {
+        const curNum = nums[i];
+        const needVal = target - curNum;
+        const index2 = preVal[needVal];
+        if (index2 != null) {
+            return [index2, i]
+        }else {
+            preVal[curNum] = i;
+        }
+    }
+};
