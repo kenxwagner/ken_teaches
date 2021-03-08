@@ -7,9 +7,6 @@
     <li>Video Tutorials</li>   
 <li>Code Challenges</li>
 
-    
-    
-  <p>As part of the "Method For Talent". 
 
 The current path has these being used for other video platforms.</p>  
   <p> A connection to "For What I Have", would also be a useful tool to use. </p> 
