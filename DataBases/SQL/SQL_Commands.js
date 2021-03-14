@@ -8,3 +8,4 @@ VALUES ('Cardinal', 'Stavanger', 'Norway');
 
 //Create Database
 CREATE DATABASE SQL_Customers;
+//MongoDB
