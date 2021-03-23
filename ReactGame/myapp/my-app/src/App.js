@@ -21,7 +21,7 @@ function App() {
       </header>
 	  what does this do?
     </div>
-	But what else?
+	
   );
   
 }
