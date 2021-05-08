@@ -8,9 +8,7 @@
 <li>Code Challenges</li>
 
 
-The current path has these being used for other video platforms.</p>  
-  <p> A connection to "For What I Have", would also be a useful tool to use. </p> 
-  <p> Scheduling app?</p>
+
 
 <b>Practice sites:</b>
 
