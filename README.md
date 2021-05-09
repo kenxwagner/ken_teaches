@@ -25,6 +25,6 @@
 
 <li>
 <a href ="https://topcoder.com">Topcoder</a></li>
- Add more.
+ Add more to come.
   </ul>
 
