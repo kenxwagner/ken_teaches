@@ -1,0 +1,9 @@
+function printAllPossibleOrderedPairs(items) {
+  items.forEach(firstItem => {
+    items.forEach(secondItem => {
+      console.log(firstItem, secondItem);
+    });
+  });
+}
+
+What is the notation?
