@@ -2,7 +2,7 @@
   <h1>Teaching Platform </h1>
   
 <li>Problem Solving</li>
-<li>Strings and Data Structures</li>
+
  <li>Interview Practice</li>
     <li>Video Tutorials</li>   
 <li>Code Challenges</li>
