@@ -7,6 +7,7 @@
     <li>Video Tutorials</li>   
 <li>Code Challenges</li>
 <li>Real World Use Apps</li>
+What else?
 
 
 <p>
